@@ -4,7 +4,7 @@ export const Header = () => {
   return <>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
             <div className="container px-4">
-                <img style={{width: "50px",  paddingRight: "10px"}} src={window.location.origin + '/assets/logo.png'} className="App-logo" alt="logo" />
+                <img style={{width: "50px",  paddingRight: "10px"}} src={window.location.origin + '/img/logo.png'} className="App-logo" alt="logo" />
 
                 <a className="navbar-brand" href="#page-top">DxImagenVet</a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
