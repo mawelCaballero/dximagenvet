@@ -11286,3 +11286,18 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+
+.cookie-banner {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.button-privacity{
+  padding-bottom: 15px;
+}

@@ -1,5 +1,4 @@
 import React from "react";
-import CookieBanner from "react-cookie-banner";
 
 export const Footer = () => {
   return (
@@ -9,12 +8,6 @@ export const Footer = () => {
           Copyright &copy; DxImagenVet 2021
         </p>
       </div>
-      <CookieBanner
-        message="Si, usamos cookies. Si no te gusta, puedes irte. No te charemos de menos!"
-        onAccept={() => {}}
-        cookie="user-has-accepted-cookies"
-        dismissOnScroll={false}
-      />
     </footer>
   );
 };
