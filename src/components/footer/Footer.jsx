@@ -2,7 +2,7 @@ import React from "react";
 
 export const Footer = () => {
   return (
-    <footer className="py-5 bg-dark">
+    <footer className="py-5 bg-dark footer">
       <div className="container px-4">
         <p className="m-0 text-center text-white">
           Copyright &copy; DxImagenVet 2021

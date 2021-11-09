@@ -88,6 +88,13 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -11295,6 +11302,8 @@ section {
   text-align: center;
   display: flex;
   justify-content: center;
+  height: 100% !important;
+  align-content: flex-start;
   
 }
 
