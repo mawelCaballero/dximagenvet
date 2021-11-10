@@ -12,7 +12,7 @@ function App() {
       <Footer/>
       <CookieBanner
       className="cookie-banner"
-        message="Si, usamos cookies. Si no te gusta, puedes irte. No te charemos de menos!"
+        message="Si, usamos cookies. Si no te gusta, puedes irte. No te echaremos de menos!"
         onAccept={() => {}}
         buttonMessage="Entendido"
         cookie="user-has-accepted-cookies"

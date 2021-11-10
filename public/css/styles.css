@@ -11295,14 +11295,13 @@ section {
 }
 
 .cookie-banner {
-  position: fixed;
+  position: fixed !important;
   left: 0;
   bottom: 0;
   width: 100%;
   text-align: center;
   display: flex;
   justify-content: center;
-  height: 100% !important;
   align-content: flex-start;
   
 }
