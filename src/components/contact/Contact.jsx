@@ -7,10 +7,9 @@ export const Contact = () => {
                 <div className="row gx-4 justify-content-center">
                     <div className="col-lg-8">
                         <h2>¿Cómo contactar con nosotros?</h2>
-                        <p className="lead">A continuación te falicitamos las distintas formas de como ponerte en contacto con nosotros por si tienes cualquier tipo de duda.
-                        También te agradecemos cualquier tipo de feedback sobre nuestro software de gestión de diagnostico.</p>
+                        <p className="lead">Para establecer contacto escribe a direccion email:</p>
                         <ul>
-                            <li>Email: consultas@dximagenvet.com</li>
+                            <li>consultas@dximagenvet.com</li>
                         </ul>
                     </div>
                 </div>
