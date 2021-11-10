@@ -10,7 +10,7 @@ function App() {
       <Header/>
       <Contact/>    
       <Footer/>
-      <CookieBanner
+      {/* <CookieBanner
       className="cookie-banner"
         message="Si, usamos cookies. Si no te gusta, puedes irte. No te echaremos de menos!"
         onAccept={() => {}}
@@ -18,7 +18,7 @@ function App() {
         cookie="user-has-accepted-cookies"
         dismissOnScroll={false}
         link={<Privacity className="button-privacity"/>}
-        />
+        /> */}
     </div>
   );
 }
